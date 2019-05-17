@@ -5,7 +5,7 @@
  * @license   https://github.com/wbraganca/yii2-dynamicform/blob/master/LICENSE
  */
 
-namespace wbraganca\dynamicform;
+namespace noname9\dynamicform;
 
 use Yii;
 use Symfony\Component\DomCrawler\Crawler;
